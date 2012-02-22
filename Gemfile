@@ -11,7 +11,7 @@ group :development, :test do
   gem 'mysql','2.8.1'
 end
 group :production do
-  # gem 'pg'
+   gem 'pg'
 end
 
 gem 'json'
